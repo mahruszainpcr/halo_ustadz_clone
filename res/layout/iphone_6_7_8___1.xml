@@ -1,0 +1,796 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the PSD File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_6_7_8___1
+	 *	@date 		0
+	 *	@title 		iPhone 6/7/8  1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.2.8.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_6_7_8___1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="667dp" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_6_7_8___1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__iphone_6_7_8___1_ek2"
+					android:background="@drawable/_bg__iphone_6_7_8___1_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="667dp" />
+
+				<TextView android:id="@+id/beranda"
+					android:fontFamily="Helvetica Neue"
+					android:textSize="20sp"
+					android:textColor="#707070"
+					android:layout_marginLeft="53dp"
+					android:layout_marginTop="48dp"
+					android:layout_width="85dp"
+					android:layout_height="28dp"
+					android:text="Beranda"
+					 />
+
+				<TextView android:id="@+id/_19_jumada_al_ula_1440_h"
+					android:fontFamily="Helvetica Neue"
+					android:textSize="14sp"
+					android:textColor="#707070"
+					android:layout_marginLeft="53dp"
+					android:layout_marginTop="76dp"
+					android:layout_width="165dp"
+					android:layout_height="19dp"
+					android:text="19 Jumada al-Ula 1440 H"
+					 />
+
+				<ImageView android:id="@+id/ic_share_24px"
+					android:src="@drawable/ic_share_24px"
+					android:contentDescription="ic_share_24px"
+					 android:layout_marginLeft="335dp"
+					 android:layout_marginStart="335dp"
+					android:layout_marginTop="52dp"
+					android:layout_width="18dp"
+					android:layout_height="19.919998168945dp" />
+
+
+				<RelativeLayout android:id="@+id/group_10"
+					android:layout_marginTop="113dp"
+					android:layout_marginStart="10dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/group_319"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/masjid_abu_darda"
+							android:src="@drawable/masjid_abu_darda"
+							android:contentDescription="masjid_abu_darda"
+							 android:layout_marginLeft="-9dp"
+							 android:layout_marginStart="-9dp"
+							android:layout_marginTop="-6dp"
+							android:layout_width="372.99996948242dp"
+							android:layout_height="168dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/icon"
+					android:src="@drawable/icon"
+					android:contentDescription="icon"
+					 android:layout_marginLeft="10dp"
+					 android:layout_marginStart="10dp"
+					android:layout_marginTop="51dp"
+					android:layout_width="39dp"
+					android:layout_height="40dp" />
+
+
+				<RelativeLayout android:id="@+id/group_320"
+					android:layout_marginTop="278dp"
+					android:layout_marginStart="10dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_1774"
+						android:background="@drawable/rectangle_1774_shape"
+						 android:layout_marginLeft="0dp"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="355dp"
+						android:layout_height="117.7956237793dp" />
+
+
+					<RelativeLayout android:id="@+id/group_324"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View android:id="@+id/rectangle_1775"
+							android:background="@drawable/rectangle_1775_shape"
+							 android:layout_marginLeft="0dp"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="355dp"
+							android:layout_height="33dp" />
+
+
+						<RelativeLayout android:id="@+id/group_322"
+							android:layout_marginTop="11dp"
+							android:layout_marginStart="13dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/group_22"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+
+								<RelativeLayout android:id="@+id/group_320_ek1"
+									android:layout_marginTop="0dp"
+									android:layout_marginStart="0dp"
+									android:layout_width="wrap_content"
+									android:layout_height="wrap_content"
+									>
+
+									<TextView android:id="@+id/waktu_shalat_hari_ini"
+										android:fontFamily="Arial Rounded MT Bold"
+										android:textColor="#ffffff"
+										android:layout_marginLeft="0dp"
+										android:layout_marginTop="0dp"
+										android:layout_width="114dp"
+										android:layout_height="13dp"
+										android:text="Waktu Shalat Hari Ini"
+										 />
+
+								</RelativeLayout>
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+					<View android:id="@+id/rectangle_1776"
+						android:background="@drawable/rectangle_1776_shape"
+						 android:layout_marginLeft="112dp"
+						 android:layout_marginStart="112dp"
+						android:layout_marginTop="39dp"
+						android:layout_width="35dp"
+						android:layout_height="38.044464111328dp" />
+
+					<View android:id="@+id/rectangle_1777"
+						android:background="@drawable/rectangle_1777_shape"
+						 android:layout_marginLeft="205dp"
+						 android:layout_marginStart="205dp"
+						android:layout_marginTop="39dp"
+						android:layout_width="35dp"
+						android:layout_height="38.044464111328dp" />
+
+					<View android:id="@+id/rectangle_1778"
+						android:background="@drawable/rectangle_1778_shape"
+						 android:layout_marginLeft="297dp"
+						 android:layout_marginStart="297dp"
+						android:layout_marginTop="39dp"
+						android:layout_width="35dp"
+						android:layout_height="38.044464111328dp" />
+
+					<ImageView android:id="@+id/path_1"
+						android:src="@drawable/path_1"
+						android:contentDescription="path_1"
+						 android:layout_marginLeft="20dp"
+						 android:layout_marginStart="20dp"
+						android:layout_marginTop="39dp"
+						android:layout_width="38dp"
+						android:layout_height="41.044464111328dp" />
+
+					<ImageView android:id="@+id/ic_chevron_right_24px"
+						android:src="@drawable/ic_chevron_right_24px"
+						android:contentDescription="ic_chevron_right_24px"
+						 android:layout_marginLeft="335dp"
+						 android:layout_marginStart="335dp"
+						android:layout_marginTop="11dp"
+						android:layout_width="7.4100036621094dp"
+						android:layout_height="12dp" />
+
+					<TextView android:id="@+id/notifikasi_tidak_aktif"
+						android:fontFamily="Arial Rounded MT Bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textColor="#ffffff"
+						android:layout_marginLeft="9dp"
+						android:layout_marginTop="84dp"
+						android:layout_width="61dp"
+						android:layout_height="24dp"
+						android:text="Notifikasi\\rTidak Aktif"
+						 />
+
+					<TextView android:id="@+id/senyapkan_adzan"
+						android:fontFamily="Arial Rounded MT Bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textColor="#ffffff"
+						android:layout_marginLeft="101dp"
+						android:layout_marginTop="84dp"
+						android:layout_width="61dp"
+						android:layout_height="24dp"
+						android:text="Senyapkan\\rAdzan"
+						 />
+
+					<TextView android:id="@+id/dzikir_shalat_fardhu"
+						android:fontFamily="Arial Rounded MT Bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textColor="#ffffff"
+						android:layout_marginLeft="188dp"
+						android:layout_marginTop="87dp"
+						android:layout_width="71dp"
+						android:layout_height="24dp"
+						android:text="Dzikir Shalat\\rFardhu"
+						 />
+
+					<TextView android:id="@+id/dzikir_pagi_petang"
+						android:fontFamily="Arial Rounded MT Bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textColor="#ffffff"
+						android:layout_marginLeft="286dp"
+						android:layout_marginTop="88dp"
+						android:layout_width="61dp"
+						android:layout_height="24dp"
+						android:text="Dzikir Pagi\\rPetang"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/_15_26"
+					android:fontFamily="Arial Rounded MT Bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="36sp"
+					android:shadowRadius="2"
+					android:shadowColor="#000000"
+					android:shadowDx="0"
+					android:shadowDy="3"
+					android:textColor="#ffffff"
+					android:layout_marginLeft="10dp"
+					android:layout_marginTop="184dp"
+					android:layout_width="105dp"
+					android:layout_height="47dp"
+					android:text="15:26"
+					 />
+
+				<TextView android:id="@+id/ashar"
+					android:fontFamily="Arial Rounded MT Bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="18sp"
+					android:shadowRadius="2"
+					android:shadowColor="#000000"
+					android:shadowDx="0"
+					android:shadowDy="3"
+					android:textColor="#ffffff"
+					android:layout_marginLeft="18dp"
+					android:layout_marginTop="230dp"
+					android:layout_width="60dp"
+					android:layout_height="24dp"
+					android:text="Ashar"
+					 />
+
+				<View android:id="@+id/rectangle_1780"
+					android:background="@drawable/rectangle_1780_shape"
+					 android:alpha="0.49689999222755"
+					 android:layout_marginLeft="16dp"
+					 android:layout_marginStart="16dp"
+					android:layout_marginTop="124dp"
+					android:layout_width="75dp"
+					android:layout_height="18dp" />
+
+				<TextView android:id="@+id/atur_lokasi"
+					android:fontFamily="Arial Hebrew Scholar"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#ffffff"
+					android:layout_marginLeft="39dp"
+					android:layout_marginTop="128dp"
+					android:layout_width="51dp"
+					android:layout_height="13dp"
+					android:text="Atur Lokasi"
+					 />
+
+				<ImageView android:id="@+id/ic_gps_fixed_24px"
+					android:src="@drawable/ic_gps_fixed_24px"
+					android:contentDescription="ic_gps_fixed_24px"
+					 android:layout_marginLeft="22dp"
+					 android:layout_marginStart="22dp"
+					android:layout_marginTop="127dp"
+					android:layout_width="12dp"
+					android:layout_height="12dp" />
+
+				<View android:id="@+id/rectangle_1781"
+					android:background="@drawable/rectangle_1781_shape"
+					 android:alpha="0.49689999222755"
+					 android:layout_marginLeft="271dp"
+					 android:layout_marginStart="271dp"
+					android:layout_marginTop="125dp"
+					android:layout_width="88dp"
+					android:layout_height="18dp" />
+
+				<TextView android:id="@+id/kota_pekanbaru"
+					android:fontFamily="Arial Hebrew Scholar"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#ffffff"
+					android:layout_marginLeft="275dp"
+					android:layout_marginTop="128dp"
+					android:layout_width="69dp"
+					android:layout_height="13dp"
+					android:text="Kota Pekanbaru"
+					 />
+
+				<ImageView android:id="@+id/ic_place_24px"
+					android:src="@drawable/ic_place_24px"
+					android:contentDescription="ic_place_24px"
+					 android:layout_marginLeft="345dp"
+					 android:layout_marginStart="345dp"
+					android:layout_marginTop="128dp"
+					android:layout_width="8dp"
+					android:layout_height="12dp" />
+
+				<ImageView android:id="@+id/compass_flat_icon_01_"
+					android:src="@drawable/compass_flat_icon_01_"
+					android:contentDescription="compass_flat_icon_01_"
+					 android:layout_marginLeft="303dp"
+					 android:layout_marginStart="303dp"
+					android:layout_marginTop="180dp"
+					android:layout_width="50dp"
+					android:layout_height="50dp" />
+
+				<View android:id="@+id/rectangle_1782"
+					android:background="@drawable/rectangle_1782_shape"
+					 android:layout_marginLeft="320dp"
+					 android:layout_marginStart="320dp"
+					android:layout_marginTop="235dp"
+					android:layout_width="15dp"
+					android:layout_height="16dp" />
+
+				<TextView android:id="@+id/_84"
+					android:fontFamily="Arial Hebrew Scholar"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="14sp"
+					android:textColor="#ffffff"
+					android:layout_marginLeft="319dp"
+					android:layout_marginTop="236dp"
+					android:layout_width="19dp"
+					android:layout_height="18dp"
+					android:text="84"
+					 />
+
+				<ImageView android:id="@+id/ic_notifications_active_24px"
+					android:src="@drawable/ic_notifications_active_24px"
+					android:contentDescription="ic_notifications_active_24px"
+					 android:layout_marginLeft="40dp"
+					 android:layout_marginStart="40dp"
+					android:layout_marginTop="328dp"
+					android:layout_width="18dp"
+					android:layout_height="18dp" />
+
+				<ImageView android:id="@+id/ic_notifications_off_24px"
+					android:src="@drawable/ic_notifications_off_24px"
+					android:contentDescription="ic_notifications_off_24px"
+					 android:layout_marginLeft="133dp"
+					 android:layout_marginStart="133dp"
+					android:layout_marginTop="328dp"
+					android:layout_width="18dp"
+					android:layout_height="18dp" />
+
+				<ImageView android:id="@+id/muslim_praying_hands"
+					android:src="@drawable/muslim_praying_hands"
+					android:contentDescription="muslim_praying_hands"
+					 android:layout_marginLeft="311dp"
+					 android:layout_marginStart="311dp"
+					android:layout_marginTop="322dp"
+					android:layout_width="31dp"
+					android:layout_height="31dp" />
+
+				<ImageView android:id="@+id/muslim_man_praying"
+					android:src="@drawable/muslim_man_praying"
+					android:contentDescription="muslim_man_praying"
+					 android:layout_marginLeft="225dp"
+					 android:layout_marginStart="225dp"
+					android:layout_marginTop="322dp"
+					android:layout_width="18dp"
+					android:layout_height="30dp" />
+
+				<TextView android:id="@+id/tanya_ustadz"
+					android:fontFamily="Helvetica Neue"
+					android:textSize="14sp"
+					android:textColor="#707070"
+					android:layout_marginLeft="138dp"
+					android:layout_marginTop="404dp"
+					android:layout_width="105dp"
+					android:layout_height="19dp"
+					android:text="TANYA USTADZ"
+					 />
+
+				<View android:id="@+id/rectangle_1783"
+					android:background="@drawable/rectangle_1783_shape"
+					 android:layout_marginLeft="138dp"
+					 android:layout_marginStart="138dp"
+					android:layout_marginTop="428dp"
+					android:layout_width="100dp"
+					android:layout_height="5dp" />
+
+				<ImageView android:id="@+id/path_6"
+					android:src="@drawable/path_6"
+					android:contentDescription="path_6"
+					 android:layout_marginLeft="26dp"
+					 android:layout_marginStart="26dp"
+					android:layout_marginTop="456dp"
+					android:layout_width="65.848831176758dp"
+					android:layout_height="71.90625dp" />
+
+				<ImageView android:id="@+id/path_7"
+					android:src="@drawable/path_7"
+					android:contentDescription="path_7"
+					 android:layout_marginLeft="112dp"
+					 android:layout_marginStart="112dp"
+					android:layout_marginTop="456dp"
+					android:layout_width="65.848831176758dp"
+					android:layout_height="71.90625dp" />
+
+				<ImageView android:id="@+id/path_8"
+					android:src="@drawable/path_8"
+					android:contentDescription="path_8"
+					 android:layout_marginLeft="198dp"
+					 android:layout_marginStart="198dp"
+					android:layout_marginTop="456dp"
+					android:layout_width="65.848815917969dp"
+					android:layout_height="71.90625dp" />
+
+				<ImageView android:id="@+id/path_9"
+					android:src="@drawable/path_9"
+					android:contentDescription="path_9"
+					 android:layout_marginLeft="284dp"
+					 android:layout_marginStart="284dp"
+					android:layout_marginTop="456dp"
+					android:layout_width="65.848815917969dp"
+					android:layout_height="71.90625dp" />
+
+				<ImageView android:id="@+id/icon_ek1"
+					android:src="@drawable/icon_ek1"
+					android:contentDescription="icon_ek1"
+					 android:layout_marginLeft="43dp"
+					 android:layout_marginStart="43dp"
+					android:layout_marginTop="465dp"
+					android:layout_width="30dp"
+					android:layout_height="30dp" />
+
+				<View android:id="@+id/rectangle_1784"
+					android:background="@drawable/rectangle_1784_shape"
+					 android:layout_marginLeft="40dp"
+					 android:layout_marginStart="40dp"
+					android:layout_marginTop="502dp"
+					android:layout_width="37dp"
+					android:layout_height="10dp" />
+
+				<TextView android:id="@+id/offline"
+					android:fontFamily="Helvetica Neue"
+					android:textColor="#707070"
+					android:layout_marginLeft="46dp"
+					android:layout_marginTop="503dp"
+					android:layout_width="29dp"
+					android:layout_height="8dp"
+					android:text="OFFLINE"
+					 />
+
+				<View android:id="@+id/rectangle_1785"
+					android:background="@drawable/rectangle_1785_shape"
+					 android:layout_marginLeft="126dp"
+					 android:layout_marginStart="126dp"
+					android:layout_marginTop="502dp"
+					android:layout_width="37dp"
+					android:layout_height="10dp" />
+
+				<TextView android:id="@+id/offline_ek1"
+					android:fontFamily="Helvetica Neue"
+					android:textColor="#707070"
+					android:layout_marginLeft="132dp"
+					android:layout_marginTop="503dp"
+					android:layout_width="29dp"
+					android:layout_height="8dp"
+					android:text="OFFLINE"
+					 />
+
+				<View android:id="@+id/rectangle_1786"
+					android:background="@drawable/rectangle_1786_shape"
+					 android:layout_marginLeft="211dp"
+					 android:layout_marginStart="211dp"
+					android:layout_marginTop="502dp"
+					android:layout_width="37dp"
+					android:layout_height="10dp" />
+
+				<TextView android:id="@+id/on_call"
+					android:fontFamily="Helvetica Neue"
+					android:textColor="#707070"
+					android:layout_marginLeft="217dp"
+					android:layout_marginTop="503dp"
+					android:layout_width="30dp"
+					android:layout_height="8dp"
+					android:text="ON CALL"
+					 />
+
+				<View android:id="@+id/rectangle_1787"
+					android:background="@drawable/rectangle_1787_shape"
+					 android:layout_marginLeft="298dp"
+					 android:layout_marginStart="298dp"
+					android:layout_marginTop="502dp"
+					android:layout_width="37dp"
+					android:layout_height="10dp" />
+
+				<TextView android:id="@+id/online"
+					android:fontFamily="Helvetica Neue"
+					android:textColor="#707070"
+					android:layout_marginLeft="304dp"
+					android:layout_marginTop="503dp"
+					android:layout_width="27dp"
+					android:layout_height="8dp"
+					android:text="ONLINE"
+					 />
+
+				<View android:id="@+id/rectangle_1788"
+					android:background="@drawable/rectangle_1788_shape"
+					 android:layout_marginLeft="130dp"
+					 android:layout_marginStart="130dp"
+					android:layout_marginTop="465dp"
+					android:layout_width="30dp"
+					android:layout_height="30dp" />
+
+				<TextView android:id="@+id/a"
+					android:fontFamily="Helvetica Neue"
+					android:textSize="19sp"
+					android:textColor="#ffffff"
+					android:layout_marginLeft="139dp"
+					android:layout_marginTop="469dp"
+					android:layout_width="17dp"
+					android:layout_height="26dp"
+					android:text="A"
+					 />
+
+				<View android:id="@+id/rectangle_1789"
+					android:background="@drawable/rectangle_1789_shape"
+					 android:layout_marginLeft="216dp"
+					 android:layout_marginStart="216dp"
+					android:layout_marginTop="465dp"
+					android:layout_width="30dp"
+					android:layout_height="30dp" />
+
+				<TextView android:id="@+id/ar"
+					android:fontFamily="Helvetica Neue"
+					android:textSize="16sp"
+					android:textColor="#ffffff"
+					android:layout_marginLeft="221dp"
+					android:layout_marginTop="471dp"
+					android:layout_width="26dp"
+					android:layout_height="21dp"
+					android:text="AR"
+					 />
+
+				<View android:id="@+id/rectangle_1790"
+					android:background="@drawable/rectangle_1790_shape"
+					 android:layout_marginLeft="302dp"
+					 android:layout_marginStart="302dp"
+					android:layout_marginTop="465dp"
+					android:layout_width="30dp"
+					android:layout_height="30dp" />
+
+				<TextView android:id="@+id/c"
+					android:fontFamily="Helvetica Neue"
+					android:textSize="19sp"
+					android:textColor="#ffffff"
+					android:layout_marginLeft="311dp"
+					android:layout_marginTop="469dp"
+					android:layout_width="19dp"
+					android:layout_height="26dp"
+					android:text="C"
+					 />
+
+				<TextView android:id="@+id/info_aplikasi_halo_ustadz"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#393838"
+					android:layout_marginLeft="30dp"
+					android:layout_marginTop="535dp"
+					android:layout_width="59dp"
+					android:layout_height="26dp"
+					android:text="Info Aplikasi\\rHalo Ustadz"
+					 />
+
+				<TextView android:id="@+id/anas_burhanuddin__lc_ma"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#393838"
+					android:layout_marginLeft="105dp"
+					android:layout_marginTop="535dp"
+					android:layout_width="79dp"
+					android:layout_height="38dp"
+					android:text="Anas\\rBurhanuddin, Lc\\rMa"
+					 />
+
+				<TextView android:id="@+id/dr__erwandi_tarmidzi__lc__ma"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#393838"
+					android:layout_marginLeft="278dp"
+					android:layout_marginTop="535dp"
+					android:layout_width="79dp"
+					android:layout_height="26dp"
+					android:text="Dr. Erwandi\\rTarmidzi, Lc, MA"
+					 />
+
+				<TextView android:id="@+id/dr__abdullah_roy__lc__ma"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#393838"
+					android:layout_marginLeft="192dp"
+					android:layout_marginTop="533dp"
+					android:layout_width="81dp"
+					android:layout_height="26dp"
+					android:text="Dr. Abdullah Roy,\\rLc. Ma"
+					 />
+
+				<View android:id="@+id/rectangle_1791"
+					android:background="@drawable/rectangle_1791_shape"
+					 android:layout_marginLeft="-29dp"
+					 android:layout_marginStart="-29dp"
+					android:layout_marginTop="593dp"
+					android:layout_width="432dp"
+					android:layout_height="120dp" />
+
+				<ImageView android:id="@+id/ic_home_24px"
+					android:src="@drawable/ic_home_24px"
+					android:contentDescription="ic_home_24px"
+					 android:layout_marginLeft="33dp"
+					 android:layout_marginStart="33dp"
+					android:layout_marginTop="604dp"
+					android:layout_width="30dp"
+					android:layout_height="27dp" />
+
+				<TextView android:id="@+id/beranda_ek1"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#06a806"
+					android:layout_marginLeft="22dp"
+					android:layout_marginTop="638dp"
+					android:layout_width="53dp"
+					android:layout_height="14dp"
+					android:text="BERANDA"
+					 />
+
+				<TextView android:id="@+id/ustadz"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#707070"
+					android:layout_marginLeft="99dp"
+					android:layout_marginTop="638dp"
+					android:layout_width="43dp"
+					android:layout_height="14dp"
+					android:text="USTADZ"
+					 />
+
+				<ImageView android:id="@+id/ic_supervisor_account_24px"
+					android:src="@drawable/ic_supervisor_account_24px"
+					android:contentDescription="ic_supervisor_account_24px"
+					 android:layout_marginLeft="105dp"
+					 android:layout_marginStart="105dp"
+					android:layout_marginTop="607dp"
+					android:layout_width="30dp"
+					android:layout_height="24dp" />
+
+				<ImageView android:id="@+id/ic_description_24px"
+					android:src="@drawable/ic_description_24px"
+					android:contentDescription="ic_description_24px"
+					 android:layout_marginLeft="179dp"
+					 android:layout_marginStart="179dp"
+					android:layout_marginTop="604dp"
+					android:layout_width="26dp"
+					android:layout_height="30dp" />
+
+				<TextView android:id="@+id/fatwa"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#707070"
+					android:layout_marginLeft="174dp"
+					android:layout_marginTop="638dp"
+					android:layout_width="37dp"
+					android:layout_height="14dp"
+					android:text="FATWA"
+					 />
+
+				<ImageView android:id="@+id/ic_account_circle_24px"
+					android:src="@drawable/ic_account_circle_24px"
+					android:contentDescription="ic_account_circle_24px"
+					 android:layout_marginLeft="319dp"
+					 android:layout_marginStart="319dp"
+					android:layout_marginTop="603dp"
+					android:layout_width="30dp"
+					android:layout_height="30dp" />
+
+				<ImageView android:id="@+id/ic_track_changes_24px"
+					android:src="@drawable/ic_track_changes_24px"
+					android:contentDescription="ic_track_changes_24px"
+					 android:layout_marginLeft="247dp"
+					 android:layout_marginStart="247dp"
+					android:layout_marginTop="604dp"
+					android:layout_width="30dp"
+					android:layout_height="30dp" />
+
+				<TextView android:id="@+id/qiblat"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#707070"
+					android:layout_marginLeft="243dp"
+					android:layout_marginTop="638dp"
+					android:layout_width="39dp"
+					android:layout_height="14dp"
+					android:text="QIBLAT"
+					 />
+
+				<TextView android:id="@+id/akun"
+					android:fontFamily="Helvetica Neue"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textColor="#707070"
+					android:layout_marginLeft="317dp"
+					android:layout_marginTop="638dp"
+					android:layout_width="33dp"
+					android:layout_height="14dp"
+					android:text="AKUN"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
